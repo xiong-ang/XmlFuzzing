@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Computers>
+  <Computer ID="11111111" Description="Made in China">
+    <name>Lenovo</name>
+    <price>5000</price>
+  </Computer>
+  <Computer ID="2222222" Description="Made in USA">
+    <name>IBM</name>
+    <price>10000</price>
+  </Computer>
+</Computers>
